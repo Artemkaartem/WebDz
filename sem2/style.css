@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "teddy";
+    src: url(Fonts/Teddy\ Bear_0.ttf);
+}
+
+h1{
+    color: rgb(255, 1, 56);
+    font-family: "teddy";
+}
+
+h2{
+    color: rgb(15, 214, 75);
+}
+
+body{
+   background-color: rgb(102, 156, 138);
+}
+
+.wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
